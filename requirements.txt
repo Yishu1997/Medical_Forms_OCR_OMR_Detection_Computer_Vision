@@ -1,0 +1,9 @@
+opencv==4.6.0
+numpy==1.25.2
+difflib
+pdf2image
+poppler-utils
+matplotlib
+paddlepaddle -i https://mirror.baidu.com/pypi/simple
+paddleocr
+pdf2image
